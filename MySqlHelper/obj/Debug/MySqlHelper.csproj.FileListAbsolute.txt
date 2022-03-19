@@ -1,0 +1,12 @@
+F:\Project\C#\DBTool\MySqlHelper\bin\Debug\MySqlHelper.dll
+F:\Project\C#\DBTool\MySqlHelper\bin\Debug\MySqlHelper.pdb
+F:\Project\C#\DBTool\MySqlHelper\bin\Debug\FreeSql.dll
+F:\Project\C#\DBTool\MySqlHelper\bin\Debug\Newtonsoft.Json.dll
+F:\Project\C#\DBTool\MySqlHelper\bin\Debug\FreeSql.pdb
+F:\Project\C#\DBTool\MySqlHelper\bin\Debug\FreeSql.xml
+F:\Project\C#\DBTool\MySqlHelper\bin\Debug\Newtonsoft.Json.xml
+F:\Project\C#\DBTool\MySqlHelper\obj\Debug\MySqlHelper.csproj.CoreCompileInputs.cache
+F:\Project\C#\DBTool\MySqlHelper\obj\Debug\MySqlHelper.csproj.CopyComplete
+F:\Project\C#\DBTool\MySqlHelper\obj\Debug\MySqlHelper.dll
+F:\Project\C#\DBTool\MySqlHelper\obj\Debug\MySqlHelper.pdb
+F:\Project\C#\DBTool\MySqlHelper\obj\Debug\MySqlHelper.csprojAssemblyReference.cache

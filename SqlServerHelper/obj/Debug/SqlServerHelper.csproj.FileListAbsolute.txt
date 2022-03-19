@@ -1,0 +1,12 @@
+F:\Project\C#\DBTool\SqlServerHelper\bin\Debug\SqlServerHelper.dll
+F:\Project\C#\DBTool\SqlServerHelper\bin\Debug\SqlServerHelper.pdb
+F:\Project\C#\DBTool\SqlServerHelper\bin\Debug\FreeSql.dll
+F:\Project\C#\DBTool\SqlServerHelper\bin\Debug\Newtonsoft.Json.dll
+F:\Project\C#\DBTool\SqlServerHelper\bin\Debug\FreeSql.pdb
+F:\Project\C#\DBTool\SqlServerHelper\bin\Debug\FreeSql.xml
+F:\Project\C#\DBTool\SqlServerHelper\bin\Debug\Newtonsoft.Json.xml
+F:\Project\C#\DBTool\SqlServerHelper\obj\Debug\SqlServerHelper.csproj.CoreCompileInputs.cache
+F:\Project\C#\DBTool\SqlServerHelper\obj\Debug\SqlServerHelper.csproj.CopyComplete
+F:\Project\C#\DBTool\SqlServerHelper\obj\Debug\SqlServerHelper.dll
+F:\Project\C#\DBTool\SqlServerHelper\obj\Debug\SqlServerHelper.pdb
+F:\Project\C#\DBTool\SqlServerHelper\obj\Debug\SqlServerHelper.csprojAssemblyReference.cache
